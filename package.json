@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mahsa1990a/Speer-Front-End-Assessment/issues"
   },
-  "homepage": "https://github.com/Mahsa1990a/Speer-Front-End-Assessment#readme"
+  "homepage": "https://github.com/Mahsa1990a/Speer-Front-End-Assessment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
