@@ -11,6 +11,7 @@ const urlDatabase = {
 
 app.get("/", (req, res) => {
   res.send("Hello!");
+  res.render('landingPage');
 });
 
 app.listen(PORT, () => {
